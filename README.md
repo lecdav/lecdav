@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lecdav
-- 👀 I’m interested in learning web dev
-- 🌱 I’m currently learning Rails and React
-- 💞️ I’m looking to collaborate on a simple Rails project
+- 👀 I’m interested in web development efficiancy
+- 🌱 I’m currently improving in Rails and React
+- 💞️ I’m looking to collaborate on a Tech for Good Rails project
 - 📫 Reach me on Twitter : @lecdav
 
 <!---
